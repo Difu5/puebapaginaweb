@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>ARREGLOS</title>
+    <style>
+        body{
+            background-color: rgb(12, 5, 73);
+            color:white;
+        }
+    </style>
+</head>
+<body>
+   <script>
+    var amigos = ['Jose', 'Maria', 'Percy', 'Soledad', 'Luis', 'Tersa', 'Fernando', 'Rocio'];
+
+   </script>
+     <script src="prac/pra.js"></script>
+</body>
+</html>
